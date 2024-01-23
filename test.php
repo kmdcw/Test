@@ -21,5 +21,7 @@ function hidePaymentMethod($pluginName, $paymentMethod) {
     } else {
         // Display an error message if the plugin is not active
         echo "Plugin '$pluginName' is not active.";
+        echo "testing the code revoew"
+        echo "testing the code review 2"
     }
 }
